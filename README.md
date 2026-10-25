@@ -23,4 +23,5 @@ El script principal (`fourier_actividad.py`) abarca los siguientes puntos solici
 ## 🚀 Instrucciones de Ejecución
 1. Clona este repositorio o descarga los archivos en tu equipo:
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
+
+(https://github.com/lalom1914-sys/analisis-SYS)
